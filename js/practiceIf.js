@@ -1,5 +1,6 @@
 'use strict';
 
+// 1 ir 1.1 pratimas ============================
 let age = 70;
 
 if (age < 0) {
@@ -11,4 +12,16 @@ if (age < 0) {
   console.log('Zmogus yra suauges');
 } else {
   console.log('Zmogus yra vaikas');
+}
+
+// 2  pratimas ============================
+
+let isMarried = false;
+let asn1 = 'Stai jums Suzadetuviu ziedu kolekcija';
+let asn2 = 'Naujausi Televizoriu modeliai CIA';
+
+if (isMarried === true) {
+  console.log(asn2);
+} else {
+  console.log(asn1);
 }
