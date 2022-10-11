@@ -15,6 +15,16 @@ console.log('if.js');
 // vygdomas kai salyga yra false
 // }
 
+// ELSE IF ==========================
+// if (<salyga1>) {
+//  kodo blokas vygdomas jei salyga1 yra true arba truthy
+//   .....
+// } else if (<salyga2>) {
+// vygdomas kai salyga1 yra false arba falsey, ir salyga2 yra true arba truethy
+// } else {
+// vygdomas kai kai salyga1 ir salyga2 yra false arba falsey
+// }
+
 let num1 = 10000;
 let num2 = 5e4;
 
