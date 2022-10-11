@@ -19,3 +19,8 @@
    2. jei susituokes tai: "Naujausi Televizoriu modeliai CIA"
 
 2.a Paprasyti is vartotojo ivesti 'taip' arba 'ne' su prompt() ir priklausomai nuo atsakymo atspausdinti tuos paciu atsakymus 
+
+3. Deklaruokite du kintamuosius: name ir birthDay
+- birthDay priskirkite tekstą “gegužės 12”
+- name priskirkite tekstą kurį vartotojas įveda su prompt()
+- Atspausdinkite viską konsolėje, pvz.: “Tomas yra gimęs gegužės 12”
