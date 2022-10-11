@@ -25,3 +25,18 @@ if (isMarried === true) {
 } else {
   console.log(asn1);
 }
+
+// 3  pratimas ============================
+// let name;
+// let birthday = 'geguzes 12 diena';
+// name = prompt('Koks jusu vardas?');
+// console.log(`${name} yra gimes ${birthday}`);
+
+// 3  prat su objektu ==========================
+let pr3Obj = {
+  name: null,
+  birthday: 'geguzes 12 diena',
+};
+
+pr3Obj.name = prompt('Koks jusu vardas?');
+console.log(`${pr3Obj.name} yra gimes ${pr3Obj.birthday}`);
