@@ -32,3 +32,9 @@
 Pvz.: username: andrius, psw: andrius11
 - “Sveiki, admin” arba “Neteisingas slaptažodis”
 - Jei neiįvedė nieko - “Viso gero!”
+
+### 5 Sukurkite kodą, kuris sukurs penkis atsitiktinius skaičius 
+1. (skaičiai negali būti didesni nei 10) ir juos priskirs kintamiesiems, kurie turi iki dviejų skaičių po kablelio;
+2. Tada suraskite ir atspausdinkite, kuris iš sukurtų skaičių yra:
+- didžiausias;
+- mažiausias.
