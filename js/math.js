@@ -38,3 +38,11 @@ console.log('Math.random()', Math.random());
 
 let random1to10 = Math.trunc(Math.random() * 10) + 1;
 console.log('random1to10', random1to10);
+
+let kaina = 45.6;
+kaina = 45.65747;
+// kaina = 0.15;
+let priceFixed = kaina.toFixed(2);
+
+// Jusu prekes kaina yra 45.60 eur
+console.log(`Jusu prekes kaina yra ${priceFixed} eur`);
