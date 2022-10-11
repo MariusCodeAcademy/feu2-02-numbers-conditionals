@@ -24,3 +24,11 @@
 - birthDay priskirkite tekstą “gegužės 12”
 - name priskirkite tekstą kurį vartotojas įveda su prompt()
 - Atspausdinkite viską konsolėje, pvz.: “Tomas yra gimęs gegužės 12”
+
+### 4. Parašykite programą, kuri:
+- Paprašyti įvesti prisijungimo vardą ir slaptažodį
+- Jei vardas admin, slaptažodis turi būti “master”
+- Jei vardas ne admin - tai slaptažodis yra: vardas ir skaičius 11.
+Pvz.: username: andrius, psw: andrius11
+- “Sveiki, admin” arba “Neteisingas slaptažodis”
+- Jei neiįvedė nieko - “Viso gero!”
