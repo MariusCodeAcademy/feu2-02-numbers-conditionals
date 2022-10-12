@@ -34,9 +34,9 @@ if (isMarried === true) {
 
 // 3  prat su objektu ==========================
 let pr3Obj = {
-  name: null,
+  name: '<iveskite varda>',
   birthday: 'geguzes 12 diena',
 };
 
-pr3Obj.name = prompt('Koks jusu vardas?');
+// pr3Obj.name = prompt('Koks jusu vardas?');
 console.log(`${pr3Obj.name} yra gimes ${pr3Obj.birthday}`);
